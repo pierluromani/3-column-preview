@@ -125,6 +125,7 @@ button:hover {
 @media (max-width: 768px) {
    .card {
       top: 5rem;
+      bottom: 5rem;
       height: initial;
       width: 80vw;
       transform: translateX(-50%);
